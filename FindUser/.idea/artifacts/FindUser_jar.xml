@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FindUser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FindUser_jar</output-path>
+    <root id="archive" name="FindUser.jar">
+      <element id="module-output" name="FindUser" />
+    </root>
+  </artifact>
+</component>
